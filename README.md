@@ -4,7 +4,7 @@
 
 A simple command-line task tracker built in Python. Add, edit, delete, and view tasks — all saved locally to a JSON file, so your data persists between runs.
 
-Task Tacker Link: [https://github.com/DaichiPanda/Task-Tracker-Using-Python-CLI/tree/master](https://roadmap.sh/projects/task-tracker)
+Task Tacker Link: https://roadmap.sh/projects/task-tracker
 
 ## Features
 
